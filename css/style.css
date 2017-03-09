@@ -1,0 +1,30 @@
+#tabuleiro{
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  border: 1px solid black;
+  background-color: gold;
+  position: relative;;
+}
+
+#tabuleiro > div {
+  height: 148px;
+  width: 148px;
+  margin: auto;
+  border: 1px solid black;
+  float: left;
+  text-align: center;
+  position: absolute;
+  font-size: 140px;
+  background-color: white;
+  transition-property: left, top, background-color;
+  transition-duration: 1s, 1s, 2s;
+  transition-delay: 0.1s;
+
+  transition-timing-function: ease-in-out;
+}
+#casa-0{
+	color: brown;
+	background-color: brown;
+	display: none;
+}
