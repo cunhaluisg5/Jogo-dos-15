@@ -12,4 +12,4 @@ Possuir um navegador web.
 
 ### Projeto
 
-O jogo foi desenvolvido na aula de **Laboratório de Programação Hipermídia** no *CES/JF*.
+O jogo foi desenvolvido na disciplina **Laboratório de Programação Hipermídia** no *CES/JF*.
